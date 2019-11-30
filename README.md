@@ -1,5 +1,5 @@
-# hello-world
-Guide Repository
+# Hello-World!
+
 Hello guys! 
 
 I'm Lee Ann. I'm from California and attended medical school (also was a research associate at UCSF) before finding out that I much preferred web development, coding, and programming to pipetting!
